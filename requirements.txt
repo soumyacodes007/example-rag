@@ -12,3 +12,5 @@ langchain-huggingface
 chromadb
 beautifulsoup4
 sentence-transformers
+requests
+pypdf
